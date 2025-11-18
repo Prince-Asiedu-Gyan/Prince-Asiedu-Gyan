@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prince-Asiedu-Gyan
 - 👀 I’m interested in Aviation and Tech
-- 🌱 I’m currently learning Data types under the Data Analytics course Grow with Google Course awarded by Google
+- 🌱 I’m currently learning Data types in Data Analytics by JA Ghana's flagship program 'Grow with Google' on Coursera
 - 💞️ I’m looking to collaborate on Programming projects on Kaggle as well as deepen my expertise in spreadsheets for Data analyst roles.
 - 📫 How to reach me https://wa.me/+2333503999434; princeasiedugyan@gmail.com ; Prince Asiedu-Gyan on Linkedin
 
